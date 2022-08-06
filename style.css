@@ -1,0 +1,22 @@
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  padding: 10px;
+  margin-top: 0px;
+  display: flex;
+  justify-content: center;
+  background-color: bisque;
+}
+#botoes {
+  margin-left: 20px;
+}
+#botao {
+  display: flex;
+  padding: 2px;
+  gap: 2px;
+ 
+}
